@@ -38,4 +38,3 @@ http://ipipip/rtp/239.81.0.168:4056
 http://ipipip/rtp/239.81.0.174:4056
 #EXTINF:-1 tvg-id="贵港新闻综合" tvg-name="贵港新闻综合" tvg-logo="https://live.fanmingming.com/tv/贵港新闻综合.png" group-title="卫视高清",贵港新闻综合
 http://ipipip/rtp/239.81.0.172:4056
-
