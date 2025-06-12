@@ -1,4 +1,4 @@
-name: CaijiGuangxiip
+name: CaijiGuizhouip
 
 on:
   schedule:
@@ -27,7 +27,7 @@ jobs:
       - name: 获取源
         run: |
           cd $GITHUB_WORKSPACE
-          python ./CaijiGuangxiip.py
+          python ./CaijiGuizhouip.py
           
       - name: Install Dependencies
         run: |
@@ -38,7 +38,7 @@ jobs:
         run: |
           cd $GITHUB_WORKSPACE
           cat zubo.txt > zubo_bf.txt
-          bash ./CaijiGuangxiip.sh
+          bash ./CaijiGuizhouip.sh
           cat txt/Guangxi_dianxin.txt > zubo.txt
           
       - name: 更新源
