@@ -17,7 +17,7 @@ fi
 # 设置城市和相应的stream
 case $city_choice in
     1)
-        city="Guangxi_dianxin"
+        city="Guizhou_dianxin"
         stream="rtp/238.255.2.2:5999"
         ;;
     0)
