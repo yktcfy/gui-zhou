@@ -54,3 +54,5 @@ http://ipipip/rtp/238.255.2.216:5999
 http://ipipip/rtp/238.255.2.180:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",雷山综合
 http://ipipip/rtp/238.255.2.128:5999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",思南综合
+http://ipipip/rtp/238.255.2.218:5999
