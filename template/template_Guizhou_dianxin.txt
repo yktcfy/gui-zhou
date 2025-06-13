@@ -1,18 +1,18 @@
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵州-2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵州公共
 http://ipipip/rtp/238.255.2.2:5999
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵州-3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵州影视文艺
 http://ipipip/rtp/238.255.2.3:5999
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵州-4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵州大众生活
 http://ipipip/rtp/238.255.2.4:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵州-5
 http://ipipip/rtp/238.255.2.5:5999
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵州-6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵州科教
 http://ipipip/rtp/238.255.2.6:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵州-7
 http://ipipip/rtp/238.255.2.9:5999
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵阳-1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵阳综合
 http://ipipip/rtp/238.255.2.19:5999
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵阳-2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵阳生活
 http://ipipip/rtp/238.255.2.20:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵阳-3
 http://ipipip/rtp/238.255.2.22:5999
